@@ -32,8 +32,8 @@ Ensure you have the following installed:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/book-a-doctor.git](https://github.com/nithisha3009/MongoDB_MERNstack.git
-cd book-a-doctor
+git clone https://github.com/nithisha3009/MongoDB_MERNstack.git
+cd MongoDB_MERNstack
 ```
 #### MongoDB URI Instructions:
 
